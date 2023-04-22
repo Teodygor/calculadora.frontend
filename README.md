@@ -1,10 +1,20 @@
-# Calculadora JS
+# Calculadora JS - SprintM2
+Grupo: Carlos R. Daniel V. Daniela R. Marcelo A Markenson B. Antonio J.
 
-<img src="https://i.ibb.co/QJBNx5v/Screen-Shot-2021-01-31-at-22-41-36.png" alt="drawing" width="400"/>
-
-**Calculadora desarrollada en este tutorial:** https://youtu.be/7YDagj3cVAk
-
-Tecnologías:
+Tecnologías utilizadas:
 - HTML
-- Css
+- CSS
 - JavaScript
+- Bootstrap
+- JQuery
+- Git
+- GitHub
+
+Uso de la Calculadora:
+
+Ingresar los valores deseados mediante cada botón numérico, haciendo click con el cursor sobre cada botón.
+Luego para realizar una operación aritmética seleccionar de la misma forma que los números.
+Si desea eliminar el último dígito presione el "back space".
+Para borrar la pantalla solo presione la tecla "C".
+
+P.D.: "Thanks Albert"
